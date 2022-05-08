@@ -46,7 +46,7 @@
 
 - #### 图床设置
 
-![image-20220508163246709](https://cdn.jsdelivr.net/gh/metaGit404/Picture/typora_img/image-20220508163246709.png)
+![image-20220508164021477](https://cdn.jsdelivr.net/gh/metaGit404/Picture/typora_img/image-20220508164021477.png)
 
 - #### 上传图片测试
 
