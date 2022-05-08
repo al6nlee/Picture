@@ -52,6 +52,16 @@
 
 ![image-20220508175902193](https://cdn.jsdelivr.net/gh/metaGit404/Picture/typora_img/image-20220508175902193.png)
 
+### Picgo-Core设置
+
+- ####下载Picgo-Core
+
+![image-20220508201728567](https://cdn.jsdelivr.net/gh/metaGit404/Picture/typora_img/image-20220508201728567.png)
+
+- ####配置Picgo-Core
+
+![image-20220508202858499](https://cdn.jsdelivr.net/gh/metaGit404/Picture/typora_img/image-20220508202858499.png)
+
 ### Typora设置
 
 ![image-20220508175920788](https://cdn.jsdelivr.net/gh/metaGit404/Picture/typora_img/image-20220508175920788.png)
