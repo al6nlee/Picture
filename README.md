@@ -1,3 +1,5 @@
+[TOC]
+
 ## 高效使用Github + Picgo + Typora做笔记
 
 ---
