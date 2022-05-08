@@ -30,4 +30,30 @@
 
 ### Picgo设置
 
+- #### 下载Picgo
+
+	[Picgo官网https://molunerfinn.com/PicGo/](https://molunerfinn.com/PicGo/)
+
+	快速下载传送门**v2.3.0**
+
+	[https://github.com/Molunerfinn/PicGo/releases/download/v2.3.0/PicGo-Setup-2.3.0-x64.exe](https://github.com/Molunerfinn/PicGo/releases/download/v2.3.0/PicGo-Setup-2.3.0-x64.exe)
+
+	[https://github.com/Molunerfinn/PicGo/releases/download/v2.3.0/PicGo-2.3.0.dmg](https://github.com/Molunerfinn/PicGo/releases/download/v2.3.0/PicGo-2.3.0.dmg)
+
+- #### 设置Server
+
+![image-20220508162023898](https://raw.githubusercontent.com/metaGit404/Picture/main/typora_img/image-20220508162023898.png)
+
+- #### 图床设置
+
+![image-20220508162141851](https://raw.githubusercontent.com/metaGit404/Picture/main/typora_img/image-20220508162141851.png)
+
+- #### 上传图片测试
+
+![image-20220508162218625](https://raw.githubusercontent.com/metaGit404/Picture/main/typora_img/image-20220508162218625.png)
+
 ### Typora设置
+
+![image-20220508162407910](https://raw.githubusercontent.com/metaGit404/Picture/main/typora_img/image-20220508162407910.png)
+
+![image-20220508162527945](https://raw.githubusercontent.com/metaGit404/Picture/main/typora_img/image-20220508162527945.png)
