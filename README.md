@@ -1,5 +1,3 @@
-[TOC]
-
 ## 高效使用Github + Picgo + Typora做笔记
 
 ---
@@ -10,11 +8,11 @@
 
 	[Github官网https://github.com/](https://github.com/)
 
-<img src="https://raw.githubusercontent.com/metaGit404/Picture/main/typora_img/image-20220508150402295.png" alt="image-20220508150402295" style="zoom: 40%;" />
+![image-20220508170655864](https://cdn.jsdelivr.net/gh/metaGit404/Picture/typora_img/image-20220508170655864.png)
 
 - #### 新建仓库
 
-<img src="https://raw.githubusercontent.com/metaGit404/Picture/main/typora_img/image-20220508151031819.png" alt="image-20220508151031819" style="zoom: 67%;" />
+![image-20220508175653576](https://cdn.jsdelivr.net/gh/metaGit404/Picture/typora_img/image-20220508175653576.png)
 
 - #### 设置Token
 
@@ -26,9 +24,9 @@
 	> > >
 	> > > > Generate new token	ps:**获得的token记得先复制出来备用**
 
-![image-20220508152458047](https://raw.githubusercontent.com/metaGit404/Picture/main/typora_img/image-20220508152458047.png)
+![image-20220508175729909](https://cdn.jsdelivr.net/gh/metaGit404/Picture/typora_img/image-20220508175729909.png)
 
-![image-20220508152859098](https://raw.githubusercontent.com/metaGit404/Picture/main/typora_img/image-20220508152859098.png)
+![image-20220508175835893](https://cdn.jsdelivr.net/gh/metaGit404/Picture/typora_img/image-20220508175835893.png)
 
 ### Picgo设置
 
@@ -44,7 +42,7 @@
 
 - #### 设置Server
 
-![image-20220508162023898](https://raw.githubusercontent.com/metaGit404/Picture/main/typora_img/image-20220508162023898.png)
+![image-20220508175810418](https://cdn.jsdelivr.net/gh/metaGit404/Picture/typora_img/image-20220508175810418.png)
 
 - #### 图床设置
 
@@ -52,10 +50,13 @@
 
 - #### 上传图片测试
 
-![image-20220508162218625](https://raw.githubusercontent.com/metaGit404/Picture/main/typora_img/image-20220508162218625.png)
+![image-20220508175902193](https://cdn.jsdelivr.net/gh/metaGit404/Picture/typora_img/image-20220508175902193.png)
 
 ### Typora设置
 
-![image-20220508162407910](https://raw.githubusercontent.com/metaGit404/Picture/main/typora_img/image-20220508162407910.png)
+![image-20220508175920788](https://cdn.jsdelivr.net/gh/metaGit404/Picture/typora_img/image-20220508175920788.png)
 
-![image-20220508162527945](https://raw.githubusercontent.com/metaGit404/Picture/main/typora_img/image-20220508162527945.png)
+![image-20220508175935949](https://cdn.jsdelivr.net/gh/metaGit404/Picture/typora_img/image-20220508175935949.png)
+
+
+
